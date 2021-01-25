@@ -1,0 +1,32 @@
+
+// TODO: add variables file
+.header {
+  background-color: #4876C3;
+  height: 55px;
+  width: 100%;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  font-size: 22px;
+
+  &__text {
+    color: #fff;
+    text-transform: uppercase;
+
+    span {
+      color: #C94A48;
+    }
+  }
+
+  &__links {
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    list-style: none;
+  }
+
+  &__link {
+    font-size: 14px;
+    margin-right: 28px;
+  }
+}

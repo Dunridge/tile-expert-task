@@ -124,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tile-expert-task"
+    }
+  },
+  "defaultProject": "tile-expert-task",
+  "cli": {
+    "analytics": "2530a088-2c5c-47d7-8690-705a74862564"
+  }
 }
